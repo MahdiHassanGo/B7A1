@@ -61,3 +61,6 @@ function getIntersection(firstArray: number[], secondArray: number[]): number[] 
 
   return firstArray.filter((number) => secondArraySet.has(number));
 }
+
+
+
